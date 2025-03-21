@@ -4,7 +4,7 @@
 /*
 * заданы нужны переменные:
 */
-$apikey = '2EF6E52E83E288756136106E81C4B41E'; //API STEAM
+$apikey = 'YOUR_API_KEY'; //API STEAM
 
 $id = '76561198116436066';
 ?>

@@ -8,7 +8,7 @@ $userok      = $_GET['user']; //Получаем данные из тексто�
 $datetime    = time(); //Определяем время
 $superdate   = date('H:i:s/d.m.y', $datetime); //Преобразуем время в формат 12:00:00/10.09.89
 
-$apikey = '2EF6E52E83E288756136106E81C4B41E'; //API STEAM
+$apikey = 'YOUR_API_KEY'; //API STEAM
 
 
 require_once "../functions/steam-id-extractor.php";
