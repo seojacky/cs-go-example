@@ -823,8 +823,8 @@ $mapNames = [
 	'de_swamp'			=> 'Swamp',
 ];
 
-//$errorMail = "pustojack@list.ru";
-$errorMail = "pustojack@list.ru";
+//$errorMail = "example@mail.com";
+$errorMail = "example@mail.com";
 
 // Получаем схему данных игры. Это понадобится для отображения иконок достижений.
 $schemaJson = file_get_contents("http://api.steampowered.com/ISteamUserStats/GetSchemaForGame/v0002/?key=$apikey&appid=730&l=russian&format=json");	

@@ -768,7 +768,7 @@ $countries = array (
 	'ZW' => 'Зимбабве'
 );
 
-//$errorMail = "pustojack@list.ru";
+//$errorMail = "example@mail.com";
 $errorMail = "olegfact@gmail.com";
 
 // Получаем схему данных игры. Это понадобится для отображения иконок достижений.

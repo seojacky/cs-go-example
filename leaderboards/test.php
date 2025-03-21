@@ -25,20 +25,20 @@ $header = ['Platform', 'Mode', 'Rank', 'Account ID', 'Score', 'Display name', 'K
 $records = [];
 
 $accounts = array(
-  array('pustojack@list.ru','IGNt7uOcEQdP'),
-  array('ro.savelev@mail.ru','hmer9POVTnFn'),
-  array('5sashunyapopov5@mail.ru','a2TN4cjqxx98'),
-  array('skoroveczkij@mail.ru','0w2hEbBv7LMN'),
-  array('molotkov-sash@mail.ru','354fiFeynXxc'),
-  array('bychov.sanya@mail.ru','HwgxguVc9rJv'),
-  array('tola.ivanov.98@mail.ru','kczILO5A868h'),
-  array('frerilprop@mail.ru','xMtEyrytt5bGzw'),
-  array('vopersgold@mail.ru','TRoL49oGoqjdEX'),
-  array('lizemsters@mail.ru','jJIM8aV4L40JiX'),
-  array('ridggreler@mail.ru','zzymVtfRJLMO1f'),
-  array('ivanfedko1996@mail.ru','a49rGTBmeDaAlo'),
-  array('parriodown@mail.ru','7fkJIf1DijZwKb'),
-  array('300_001@bk.ru','vnUe1iCHK1tYRn'),
+  array('example@mail.com','IGNt7uOcEQdP'),
+  array('example@mail.com','hmer9POVTnFn'),
+  array('example@mail.com','a2TN4cjqxx98'),
+  array('example@mail.com','0w2hEbBv7LMN'),
+  array('example@mail.com','354fiFeynXxc'),
+  array('example@mail.com','HwgxguVc9rJv'),
+  array('example@mail.com','kczILO5A868h'),
+  array('example@mail.com','xMtEyrytt5bGzw'),
+  array('example@mail.com','TRoL49oGoqjdEX'),
+  array('example@mail.com','jJIM8aV4L40JiX'),
+  array('example@mail.com','zzymVtfRJLMO1f'),
+  array('example@mail.com','a49rGTBmeDaAlo'),
+  array('example@mail.com','7fkJIf1DijZwKb'),
+  array('example@mail.com','vnUe1iCHK1tYRn'),
 );
 
 $account = array_rand($accounts);
