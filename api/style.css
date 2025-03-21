@@ -1,0 +1,163 @@
+#steam_stats {
+    background-color: #263649;
+    color: #f5f3f3;
+	padding: 5px;
+}
+
+a {
+    color: #9a9a9a;
+    text-decoration: none;
+}
+body {
+    background: #000000 no-repeat center top url( https://game-stat.com/steam/steam-background.jpg )!important;
+}
+h3 {
+    color: white;
+}
+.text p, .text {
+	font-family: "Segoe UI", HelveticaNeue-Light, "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
+"Segoe UI", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, sans-serif;	
+    color: rgb(255, 255, 255);
+}
+
+
+div#cs-go_stats {
+    background: rgb(125, 125, 125, 0.7);
+}
+
+.table-responsive {
+    background: rgb(42, 59, 75);
+}
+
+/*заголовки таблицы*/
+th.sorttable_sorted {
+    background: #6375ba;
+}
+th.sorttable_sorted:hover, th.sortable:hover {
+    background: #7684ba;
+	 cursor: pointer;
+}
+
+/*Адаптивная таблица*/
+.table-responsive {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+}
+.table-responsive table td {
+    overflow: hidden;
+}
+
+
+
+/* Кнопка смотреть больше */
+#showMoreButton {
+    color: white;
+    text-align: center;
+    background: grey;
+    width: 100%;
+    margin: 0.2rem auto;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+#showMoreButton:hover {
+    background: #a7a7a7;
+	
+}
+.text-left img {
+    margin: 0%;
+    width: 50px;
+    vertical-align: middle;
+}
+.text-left span {
+    display: inline-block;
+}
+.hidden-by-default {
+    display: none;
+}
+#headerInner {
+    background: transparent !important;
+	border: 0px solid !important;
+}
+.cs-go-page #headerInner {
+
+    background: url(https://game-stat.com/img/statistika-profilya-cs-go.jpg) no-repeat center #10272f;
+
+}
+#content #colLeft {    
+    background: transparent;
+}
+h1, .class_h1 {
+	text-align: center;
+	color:white;
+	font-size: 30px;
+    font-weight: normal;
+    padding: 10px 0 5px 30px;
+    line-height: 100%;
+    font-style: italic;	
+}
+a.class_h1 {
+    text-decoration: underline;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+}
+
+
+span.brcb span a {
+    color: #f1f1f3;
+}
+span.brcb span, span.brcb {
+    display: inline;
+    margin-right: 5px;
+    padding: 3px;
+    color: white;
+}
+input.steam_stats__form__username, input.steam_stats__form__submit {
+    height: 55px!important;
+    border: 0px;
+}
+input.steam_stats__form__username {
+    border-radius: 5px 0px 0px 5px;
+	font-size: 12pt;
+    padding: 0 10px;
+}
+input.steam_stats__form__submit {
+    border-radius: 0px 5px 5px 0px;
+	background-color: #0b65d0;
+    color: white;
+	font-size: 12pt;
+    padding: 0 10px;
+}
+
+.steam_stats__form-container {
+    max-width: 700px;
+    margin: 0 auto;
+	color: white;
+	padding: 10px;    
+    border-radius: 5px;
+}
+form.steam_stats__form {
+
+    margin: 0 auto;
+
+    text-align: center;
+
+}
+
+input.steam_stats__form__username { 
+
+	width: 60%;
+
+}
+#achievements {
+    margin: 0 auto;
+    text-align: center;
+}
+#achievements img {
+    margin: 5px;
+}
+
+

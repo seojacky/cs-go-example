@@ -1,0 +1,42 @@
+{
+   "1":{
+      "playerCol":"ZywOo",
+      "teamCol":"Vitality",
+      "teamLogo":"https:\/\/static.hltv.org\/images\/team\/logo\/9565",
+      "statsDetail":"1.40",
+      "kdDiffCol won":"+3193",
+      "ratingCol":"1.30"
+   },
+   "2":{
+      "playerCol":"s1mple",
+      "teamCol":"Natus Vincere",
+      "teamLogo":"https:\/\/static.hltv.org\/images\/team\/logo\/4608",
+      "statsDetail":"1.30",
+      "kdDiffCol won":"+5314",
+      "ratingCol":"1.23"
+   },
+   "3":{
+      "playerCol":"XANTARES",
+      "teamCol":"Space Soldiers",
+      "teamLogo":"https:\/\/static.hltv.org\/images\/team\/logo\/5929",
+      "statsDetail":"1.23",
+      "kdDiffCol won":"+3988",
+      "ratingCol":"1.21"
+   },
+   "4":{
+      "playerCol":"BnTeT",
+      "teamCol":"TYLOO",
+      "teamLogo":"https:\/\/static.hltv.org\/images\/team\/logo\/4863",
+      "statsDetail":"1.31",
+      "kdDiffCol won":"+2975",
+      "ratingCol":"1.20"
+   },
+   "5":{
+      "playerCol":"Kaze",
+      "teamCol":"ViCi",
+      "teamLogo":"https:\/\/static.hltv.org\/images\/team\/logo\/7606",
+      "statsDetail":"1.30",
+      "kdDiffCol won":"+2418",
+      "ratingCol":"1.20"
+   }
+}

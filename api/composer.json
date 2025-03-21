@@ -1,0 +1,8 @@
+{
+    "name": "u0533667/cs-go",
+    "require": {
+        "paquettg/php-html-parser": "^2.1",
+        "league/csv": "^9.3",
+        "nesbot/carbon": "^2.23"
+    }
+}

@@ -1,0 +1,55 @@
+.card {
+    background-color:#2b2b2b;
+    box-sizing:border-box;
+    float:left;
+    /* height:5em; */
+    margin:.5em;
+    padding:1em;
+    position:relative;
+    width:17.7em;
+  }
+
+  .card h3 {
+      color: #FFFFFF;
+  }
+  
+  .progress {
+    bottom:0;
+    left:0;
+    position:absolute;
+    top:0;
+    max-width: 100%;
+  }
+  
+  .progress:before {
+    background-color:#000000;
+    bottom:0;
+    left:0;
+    content:"";
+    position:absolute;
+    top:0;
+    width:100%;
+  }
+  
+  .content {
+    position:relative;
+    color: #FFFFFF;
+  }
+  
+  .percentage {
+    /* text-align:right; */
+    text-indent: 0%;
+    color: #FFFFFF;
+    font-size: 1.40rem;
+  }
+
+  .card_title {
+      margin: 0 0 0 0;
+      font-size: 1.25rem;
+      color: #FFFFFF;
+      text-indent: 0%;
+  }
+  
+  .container {
+      width: 100%;
+  }
